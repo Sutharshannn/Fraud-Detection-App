@@ -65,3 +65,5 @@ tmp/
 # User Uploaded Data (optional)
 uploads/
 user_data/
+
+.env
