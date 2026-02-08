@@ -1,0 +1,51 @@
+TransactionID,Amount,Time,Merchant,Location,CardType
+1,45.23,120,Amazon,Online,Visa
+2,32.50,245,Starbucks,NYC,Mastercard
+3,1250.00,350,BestBuy,Los Angeles,Visa
+4,67.89,480,Walmart,Chicago,Amex
+5,23.45,620,McDonald's,Miami,Visa
+6,8900.00,750,Luxury Boutique,Beverly Hills,Amex
+7,156.78,890,Target,Seattle,Mastercard
+8,12.34,1020,Gas Station,Houston,Visa
+9,450.00,1150,Apple Store,San Francisco,Visa
+10,89.99,1280,Whole Foods,Portland,Mastercard
+11,5500.00,1410,Car Rental,Las Vegas,Amex
+12,34.56,1540,Subway,Boston,Visa
+13,890.00,1670,Home Depot,Phoenix,Mastercard
+14,15.67,1800,CVS Pharmacy,Denver,Visa
+15,2300.00,1930,Nordstrom,Dallas,Amex
+16,45.00,2060,Uber,Austin,Visa
+17,12500.00,2190,Electronics Store,Miami,Visa
+18,78.90,2320,Restaurant,San Diego,Mastercard
+19,234.56,2450,Nike Store,Atlanta,Visa
+20,9999.99,2580,Jewelry Store,New York,Amex
+21,56.78,2710,Grocery Store,Philadelphia,Mastercard
+22,123.45,2840,Movie Theater,San Jose,Visa
+23,7800.00,2970,Furniture Store,Columbus,Amex
+24,45.67,3100,Coffee Shop,Detroit,Visa
+25,89.00,3230,Bookstore,Memphis,Mastercard
+26,6700.00,3360,Travel Agency,Baltimore,Amex
+27,34.50,3490,Fast Food,Louisville,Visa
+28,15000.00,3620,Luxury Hotel,Monaco,Amex
+29,67.80,3750,Pet Store,Milwaukee,Mastercard
+30,456.78,3880,Department Store,Albuquerque,Visa
+31,23.40,4010,Pharmacy,Tucson,Visa
+32,11200.00,4140,Cryptocurrency,Online,Bitcoin
+33,78.90,4270,Supermarket,Fresno,Mastercard
+34,345.67,4400,Clothing Store,Sacramento,Visa
+35,8500.00,4530,Designer Store,Paris,Amex
+36,12.30,4660,Convenience Store,Mesa,Visa
+37,567.89,4790,Electronics,Kansas City,Mastercard
+38,45.60,4920,Bakery,Atlanta,Visa
+39,9800.00,5050,Rare Collectibles,Tokyo,Amex
+40,89.70,5180,Florist,Omaha,Mastercard
+41,234.00,5310,Toy Store,Miami,Visa
+42,15.80,5440,Ice Cream,Colorado Springs,Visa
+43,6900.00,5570,Watch Store,Geneva,Amex
+44,56.70,5700,Hardware Store,Raleigh,Mastercard
+45,890.00,5830,Sporting Goods,Minneapolis,Visa
+46,12800.00,5960,Art Gallery,London,Amex
+47,34.20,6090,Pizza Place,Virginia Beach,Visa
+48,78.50,6220,Salon,Oakland,Mastercard
+49,7600.00,6350,Casino,Atlantic City,Amex
+50,45.30,6480,Thrift Store,Long Beach,Visa
