@@ -1,10 +1,10 @@
-# 🛡️ AI-Powered Fraud Detection System
+# AI-Powered Fraud Detection System
 
 **Fraud-Guard** is a robust financial security application that bridges the gap between unsupervised machine learning and human-readable intelligence. By leveraging **Gemini 2.5 Flash**, it transforms complex anomaly scores into actionable forensic insights.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 * **Isolation Forest Engine**: Employs unsupervised machine learning to detect high-risk outliers in transaction datasets based on Amount and Time features.
 * **Explainable AI (XAI)**: Utilizes Gemini 2.5 Flash to generate professional, one-sentence natural language explanations for every flagged transaction.
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 * **Python**
 * **Streamlit**
@@ -25,7 +25,7 @@
 
 ---
 
-## 🔬 How It Works
+## How It Works
 
 **1. Data Ingestion** Users upload a standard transaction CSV containing Amount and Time columns for analysis.
 
@@ -41,7 +41,7 @@
 
 ---
 
-## ⚙️ Installation and Setup
+## Installation and Setup
 
 **1. Clone the Repository** Use your terminal to clone the project files and enter the project directory.
 
@@ -53,7 +53,7 @@
 
 ---
 
-## 🎓 Academic Context
+## Academic Context
 Developed as a specialized project during the University of Windsor hackathon series in early 2026.
 
 **Author:** Sutharshan Suthakaran, Computer Science Student at the University of Windsor.
